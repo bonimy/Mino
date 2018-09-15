@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mino", "src\Mino\Mino.csproj", "{568FADA6-63C2-48D8-A6BD-8D29FE4C4AF3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{941995C3-DA0E-43EB-845C-EEFA95C53DC7}"
+	ProjectSection(SolutionItems) = preProject
+		Mino.ruleset = Mino.ruleset
+		Mino.sln.licenseheader = Mino.sln.licenseheader
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,10 +1,16 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿// <copyright file="AssemblyInfo.cs" company="Public Domain">
+//     Copyright (c) 2018 Nelson Garcia. All rights reserved. Licensed
+//     under GNU Affero General Public License. See LICENSE in project
+//     root for full license information, or visit
+//     https://www.gnu.org/licenses/#AGPL
+// </copyright>
+
+using System.Reflection;
 using System.Runtime.InteropServices;
 
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
+// General Information about an assembly is controlled through the
+// following set of attributes. Change these attribute values to modify
+// the information associated with an assembly.
 [assembly: AssemblyTitle("Mino")]
 [assembly: AssemblyProduct("Mino")]
 [assembly: AssemblyConfiguration("")]
@@ -14,23 +20,19 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Setting ComVisible to false makes the types in this assembly not visible 
-// to COM components.  If you need to access a type in this assembly from 
-// COM, set the ComVisible attribute to true on that type.
+// Setting ComVisible to false makes the types in this assembly not
+// visible to COM components. If you need to access a type in this
+// assembly from COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
-// The following GUID is for the ID of the typelib if this project is exposed to COM
+// The following GUID is for the ID of the typelib if this project is
+// exposed to COM
 [assembly: Guid("63fa8b63-62c0-4cf3-aef1-db6cb57c23f7")]
 
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Build and Revision Numbers 
-// by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
+// Version information for an assembly consists of the following four
+// values: // Major Version Minor Version Build Number Revision // You
+// can specify all the values or you can default the Build and Revision
+// Numbers by using the '*' as shown below: [assembly:
+// AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
